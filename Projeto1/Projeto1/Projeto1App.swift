@@ -11,8 +11,7 @@ import SwiftUI
 struct Projeto1App: App {
     var body: some Scene {
         WindowGroup {
-//            ContentView()
-            tela3()
+            tela4()
         }
     }
 }
